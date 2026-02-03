@@ -1,0 +1,109 @@
+# Governance Framework — Property Peak Myanmar Core
+
+This document defines governance, authority, approval flows, and control mechanisms for the Property Peak Myanmar Core Operating System.
+
+It ensures regulatory compliance, operational discipline, data protection, and scalability for both Myanmar and international service expansion.
+
+---
+
+## 🎯 Objectives
+
+- Protect company intellectual property
+- Enforce standardized workflows
+- Maintain regulatory readiness
+- Reduce operational risk
+- Enable audit trails
+- Support multi-country expansion
+- Prepare for investor due diligence
+
+---
+
+## 🏛 Authority Structure
+
+### Owner / Founder
+- Final approval authority
+- Strategy and system design
+- Legal framework sign-off
+
+### Executive Operations
+- SOP enforcement
+- Workflow approvals
+- Compliance monitoring
+
+### Legal & Compliance
+- Contract templates
+- Regulatory checks
+- Title verification processes
+
+### Finance Control
+- Pricing frameworks
+- Commission rules
+- Invoice systems
+
+### IT / Automation
+- SMS systems
+- AI usage
+- Integration pipelines
+
+---
+
+## 📋 Approval Requirements
+
+The following require written approval:
+
+- Legal document templates
+- Pricing or valuation models
+- SMS automation rules
+- Financial frameworks
+- CRM lifecycle rules
+- Data-handling policies
+- External integrations
+
+---
+
+## 🧾 Audit Trails & Version Control
+
+- All changes must be committed to GitHub.
+- Major updates require version tags.
+- Archived files must move to `/archive`.
+- No deletion of legal frameworks without board approval.
+
+---
+
+## 🌍 International Expansion Readiness
+
+This system is structured to:
+
+- Support multi-jurisdiction services
+- Allow localization modules
+- Maintain country-specific compliance folders
+- Enable multilingual documentation
+- Meet investor governance standards
+
+---
+
+## ⚖ Regulatory Alignment
+
+Governance must align with:
+
+- Myanmar property law
+- Industrial zone regulations
+- AML / KYC principles
+- Data protection standards
+- International business best practices
+
+---
+
+## 📌 Review Cycle
+
+- Quarterly governance review
+- Annual legal audit
+- Automation risk assessment
+- Security audit
+
+---
+
+## 📅 Effective Date
+
+Effective from: 2026  
+Owner: Property Peak Myanmar Management
